@@ -1,0 +1,33 @@
+/*Change any style you want!!!*/
+h1 {
+  text-align:center;
+}
+h2 {
+  text-align:center;
+}
+#image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: auto;
+max-width: 100%;
+}
+#img-caption {
+  text-align: center;
+}
+h3 {
+  text-align:center;
+}
+#tribute-info {
+text-align: left;
+width: 40%;
+position:relative;
+left: 30%;
+}
+#quote {
+  text-align: center;
+  font-style: Times New Roman;
+}
+.tribute-refer {
+  text-align: center;
+}
